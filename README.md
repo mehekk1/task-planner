@@ -1,3 +1,4 @@
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -5,7 +6,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
-
+### 'rm -rf node_modules package-lock.json' 
+### 'npm install'
+### 'npm install react-scripts'
 ### `npm start`
 
 Runs the app in the development mode.\
